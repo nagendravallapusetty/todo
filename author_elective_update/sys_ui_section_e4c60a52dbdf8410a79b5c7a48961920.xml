@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="e4c60a52dbdf8410a79b5c7a48961920" sys_domain="global" table="x_463514_todo_todo" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-04 09:57:37</sys_created_on>
+            <sys_id>e4c60a52dbdf8410a79b5c7a489619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_463514_todo_todo" sys_domain="global" view="Default view">e4c60a52dbdf8410a79b5c7a48961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-04 09:57:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-04 09:57:37</sys_created_on>
+            <sys_id>68c60a52dbdf8410a79b5c7a489619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_463514_todo_todo" sys_domain="global" view="Default view">e4c60a52dbdf8410a79b5c7a48961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-04 09:57:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_463514_todo_todo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-04 09:57:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4c60a52dbdf8410a79b5c7a48961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Todo" source="x_463514_todo">28269dd2db1f8410a79b5c7a48961915</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Todo">28269dd2db1f8410a79b5c7a48961915</sys_scope>
+            <sys_update_name>sys_ui_section_e4c60a52dbdf8410a79b5c7a48961920</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-04 09:57:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Todo">28269dd2db1f8410a79b5c7a48961915</application>
+        <file_path/>
+        <instance_id>0799b60bdb05330091232f17d4961953</instance_id>
+        <instance_name>dev84609</instance_name>
+        <name>sys_ui_section_e4c60a52dbdf8410a79b5c7a48961920</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="e4c60a52dbdf8410a79b5c7a48961920" sys_domain="global" table="x_463514_todo_todo" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-04 09:57:37</sys_created_on><sys_id>e4c60a52dbdf8410a79b5c7a489619c8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_463514_todo_todo" sys_domain="global" view="Default view">e4c60a52dbdf8410a79b5c7a48961920</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-04 09:57:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-04 09:57:37</sys_created_on><sys_id>68c60a52dbdf8410a79b5c7a489619c8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_463514_todo_todo" sys_domain="global" view="Default view">e4c60a52dbdf8410a79b5c7a48961920</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-04 09:57:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_463514_todo_todo</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-04 09:57:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e4c60a52dbdf8410a79b5c7a48961920</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Section</sys_name><sys_overrides/><sys_package display_value="Todo" source="x_463514_todo">28269dd2db1f8410a79b5c7a48961915</sys_package><sys_policy/><sys_scope display_value="Todo">28269dd2db1f8410a79b5c7a48961915</sys_scope><sys_update_name>sys_ui_section_e4c60a52dbdf8410a79b5c7a48961920</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-04 09:57:36</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-641753509</payload_hash>
+        <record_name>Todo</record_name>
+        <reverted_from/>
+        <source>2c269dd2db1f8410a79b5c7a48961917</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 09:57:37</sys_created_on>
+        <sys_id>ecc60a52dbdf8410a79b5c7a489619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170a4faafbb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-04 09:57:37</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>68c60a52bedf841099475b4110052dc9</update_guid>
+        <update_guid_history>68c60a52bedf841099475b4110052dc9:-641753509</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 09:58:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>089d4a902fa9496f81a85f9bc6089231</sys_id>
+        <sys_metadata>e4c60a52dbdf8410a79b5c7a48961920</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Todo" source="x_463514_todo">28269dd2db1f8410a79b5c7a48961915</sys_package>
+        <sys_parent display_value="Todo">1c5b1196db1f8410a79b5c7a48961980</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Todo">28269dd2db1f8410a79b5c7a48961915</sys_scope>
+        <sys_scope_delete display_value="">3268498bf212408f8f70f6c45a121831</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e4c60a52dbdf8410a79b5c7a48961920</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e4c60a52dbdf8410a79b5c7a48961920">ecc60a52dbdf8410a79b5c7a489619c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-04 09:58:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

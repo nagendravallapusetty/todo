@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>34269d9edb9b8410a79b5c7a489619f3</logo>
+        <menu/>
+        <name>Todo</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_463514_todo</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>practice app</short_description>
+        <source>x_463514_todo</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 06:25:10</sys_created_on>
+        <sys_id>28269dd2db1f8410a79b5c7a48961915</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-04 06:25:11</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>todo.png</file_name>
+        <hash>cf2dcfabb63ed758e7074cd7e680d54dfb7d67d15a276cbb09d35e3d9a1c6d52</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1656</size_bytes>
+        <size_compressed>1672</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 06:25:11</sys_created_on>
+        <sys_id>34269d9edb9b8410a79b5c7a489619f3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-03-04 06:25:11</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>28269dd2db1f8410a79b5c7a48961915</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="todo.png" sys_id="34269d9edb9b8410a79b5c7a489619f3">34269d9edb9b8410a79b5c7a489619f3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 06:25:11</sys_created_on>
+        <sys_id>74269d9edb9b8410a79b5c7a489619f3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>fZT9OxMIAMfXeZRi5bykROJ6OTGOvJSxPUpe2qKwrtrycnJeImSl2OxukrSizEvIZBPVMO9lS07Yjs3czMsQ8zIWZ+Z1m5dx7rnf7/PD9+UP+H5TL3m6Affo7wEAAEAPdxdvAGAHZDsXqqls68+888ptq7oE9z2/tbX1utdsu5F6frCxsnqckjIvnT+os/8Tg1HQYzg2OpbH35fP30/qMRlfZL7sBig3V9eUy2VUat1I8ORSZ6kAurAqej/gLpBUaakDzU782MnhtIgeFZJIX5qbWVPp5UPes7LBrulC/t/v/px68VEY2dvbS8zIcIZAG8fixGJxeGgYhUyu+or0cHVbWZv5KqUzRtHXrl4N8PPHYjAmhkZWFhZShVB33/f30OjplR7v8i+jAIAq3sPF2ff+K8lQXOx7uM6ugBuVo3hBAoGpRVlkZuQrlFABLEQ9G0zU+Eku33ihRq4hnWEk3GtD7QX8D4lpiIL0vPWBiCYD0PWVYiQRVH55qJhe9NFmuLimP6d4KFN35QEp/AKJEoqW+XcD2fhBFH8pRmfQFWAUNjmRJFaNFnrQsdN21ln5vJqDtTlodZ8yCKMgHrKWjf7Bh91xKJ0cwqJdg9ELpnvahZKPOyIfKdreQvWcwImdxfl5Z+tk2k79lKANonldCCUkHUcoRubbqZ9UbX/tAFyvYR4WmWZHG8C4TpKJwYY55XMeD1baC5woRRNvR9Nt3vzulXtGDKJp2mRzm207LqH9+3ozWfZx2AWWulG5wy5ESZKZoOXJ7GRe8nWudizu4PjOW63L0VhSBIEvSneMUlCQ/GfUcUT8hq6H3ekbrlbaLOqSyzAMMmw47YDaJ187JWqtXSTz75Dm3cD84dLr0eu7mW7VkZ7p1K9xS08YlSv8aolfn2iXuwrMvws1x9gM7Zc5LP75AKVnYUVLtXNwyl4M77dE/niKg0g26M3tjvIOsPnCp+IvqA2UmfGyslbkC9GOBXFmRd9nrTA/X3EiiH1ofWmmSAGPS10oOZumz2E2/356DSsXHjm9LjF4q7ceZfzpzrnvUoyHHuOxU+S9s03Spo0Y3HWnEinEHIkPTi31rre1UBYsCbvqyBd2PiMrAxhzxKDoyRMHfz6Z1SuKcLtr2Nj8IpOJFJ9naA3o4FZVtsrSHGNDfcS7oRUxwQQK6JNXlUs9Zyz1rbPBFeVPW77WC7REKbEyX8/d9P60jPgqUaGyWfEyVR44MK5V4gfGcI7YG3Muo19n3IleXEYsTiCNj860y5pFIdBRaXjbLKI9mODY9JjtB8GcuPMrCbxzmvUwCoZfNnMpAIs1cnP1N0XzqsEE8HJbDsjzKWgTq5hfOGNzvHBE5TimQX7EM+ntoaEOUcYbntfeQgtpfWvxt+FZaiXWPueQ1rhTQMuH44ekyRHCu/4daUVhcpOLe7wyQWkJQcLnmCrTWpNW8M2W/vlbBsY9Q5YZb8a7tLQJlkjZnDMyzY/DYT+idZX89Wz+3RwuQfPmRJ0klgdn0E+b3g+GSWS3CXqi3HkISvHwOXwcTIMGLTfEWGvcdUUnI9zgA91E9v5zG/SMQgeLmyxHPW55hGKv89inwOxjDV+5Rlo14+fcoZLc6rZC/wMYBVf0h6MutxyueBSIT2v/rf0DkGHQDigySayIaM8fz8nCKGZXAwwOv0qiJ+8W3tPsi2tT9zk6Z73tjfFRtQm+9e7aNE0I+M0XhS654yiq1lbQFnlmEHFAu0KN810ie7Khug0Gy9aEnAidibc2p+2Cu0CaRliMmLGrJqLWo7mGtWy646unCLuwU79wZSOC6mO/wqjHPsNeqKmyXFbkJWm81aBK/xWuZURKigBbBq8UzD8Im8wB5a1jb3JIT02uYOsDrznWDBY0qQNvA6tO2utPesBvoMJ0Pnc9M9flFNlf1BDigcLtRcTkWCTBLIMSG139ceZ+FT4N3wiwz7gD8os0z3f7cZrHjBIpf8Sv9XlDnWOSTGknLcOlf5WxpIqoXCaCaf/yo/O5bszaHGrJdrq+5LK8XXE5rHFH/VrsQov0ye0B6MbF7OHYUo8P1o0jhzubnqTm50m/hcXhDCjiBcJDRplSUlisP6UmX3bylnQLAOFTi17dkeyHM6QZjNEVjfdNRUIIewa0lDmTR/AexFLJQ5tZeQhJZymFhx65FZis/n8n+R/1WztueftSbe0jjv9bPc57ulScDcD/A+4l7554BgAA</data>
+        <length>2216</length>
+        <position>1</position>
+        <sys_attachment display_value="todo.png" sys_id="34269d9edb9b8410a79b5c7a489619f3">34269d9edb9b8410a79b5c7a489619f3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 06:25:11</sys_created_on>
+        <sys_id>f4269d9edb9b8410a79b5c7a489619f3</sys_id>
+    </sys_attachment_doc>
+</record_update>
